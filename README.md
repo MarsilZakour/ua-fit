@@ -20,8 +20,8 @@ This repository hosts the **project page** (served at
 `main`/`docs`). The paper **code** lives in a separate repository, and the
 reusable solver core in **parafit**:
 
-- Code: [marcilzakour/ua-fit-code](https://github.com/MarsilZakour/ua-fit-code) (release coming soon).
-- Solver: [marcilzakour/parafit](https://github.com/MarsilZakour/parafit).
+- Code: [MarsilZakour/ua-fit-code](https://github.com/MarsilZakour/ua-fit-code) (release coming soon).
+- Solver: [MarsilZakour/parafit](https://github.com/MarsilZakour/parafit).
 
 ## Citation
 
