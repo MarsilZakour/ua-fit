@@ -6,7 +6,7 @@ Multi-view Hand Mesh Recovery.** ECCV 2026 &mdash; HANDS Workshop.
 Marsil Zakour, Constantin Patsch, Martin Piccolrovazzi, Yuankai Wu, Eckehard
 Steinbach &middot; Technical University of Munich (Chair of Media Technology, MIRMI).
 
-**[Project page](https://marsilzakour.github.io/ua-fit/)** &middot; Paper (coming soon)
+**[Project page](https://marsilzakour.github.io/ua-fit/)** &middot; [Paper (PDF)](https://marsilzakour.github.io/ua-fit/paper/uafit_hands2026.pdf)
 
 UA-Fit learns only per-view 2D evidence (a dense oriented vote field with
 per-vote anisotropic precision); a parameter-free analytical Levenberg&ndash;Marquardt
