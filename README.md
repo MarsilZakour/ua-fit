@@ -6,7 +6,8 @@ Multi-view Hand Mesh Recovery.** ECCV 2026 &mdash; HANDS Workshop.
 Marsil Zakour, Constantin Patsch, Martin Piccolrovazzi, Yuankai Wu, Eckehard
 Steinbach &middot; Technical University of Munich (Chair of Media Technology, MIRMI).
 
-**[Project page](https://marsilzakour.github.io/ua-fit/)** &middot; [Paper (PDF)](https://marsilzakour.github.io/ua-fit/paper/uafit_hands2026.pdf)
+**[Project page](https://marsilzakour.github.io/ua-fit/)** &middot; [Paper (PDF)](https://marsilzakour.github.io/ua-fit/paper/uafit_hands2026.pdf) &middot;
+[Code](https://github.com/MarsilZakour/ua-fit-code) &middot; [Model weights](https://huggingface.co/Marsil123/ua-fit)
 
 UA-Fit learns only per-view 2D evidence (a dense oriented vote field with
 per-vote anisotropic precision); a parameter-free analytical Levenberg&ndash;Marquardt
@@ -20,7 +21,10 @@ This repository hosts the **project page** (served at
 `main`/`docs`). The paper **code** lives in a separate repository, and the
 reusable solver core in **parafit**:
 
-- Code: [MarsilZakour/ua-fit-code](https://github.com/MarsilZakour/ua-fit-code) (release coming soon).
+- Code: [MarsilZakour/ua-fit-code](https://github.com/MarsilZakour/ua-fit-code) (evaluation code that reproduces
+  the paper's tables; training code to follow).
+- Model weights: [Marsil123/ua-fit](https://huggingface.co/Marsil123/ua-fit) on Hugging Face (downloaded
+  automatically by the code).
 - Solver: [MarsilZakour/parafit](https://github.com/MarsilZakour/parafit).
 
 ## Citation
